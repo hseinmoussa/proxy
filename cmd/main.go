@@ -2,8 +2,7 @@ package main
 
 import (
 	"log"
-
-	"github.com/hseinmoussa/proxy/internal/server"
+	"proxy/internal/server"
 )
 
 func main() {

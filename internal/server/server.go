@@ -4,8 +4,7 @@ import (
 	"fmt"
 	"net/http"
 	"net/url"
-
-	"github.com/hseinmoussa/proxy/internal/configs"
+	"proxy/internal/configs"
 )
 
 // Run starts server and listens on defined port
